@@ -1,3 +1,12 @@
+# TODO
+Fork MisterX's Texture Rotation to add file uploading from a certain directory
+Make the python script save the file as a formation.add format in that certain directory.
+Make it build then run
+If a user wants to do it again, it automatically deletes the build folder, then builds, then runs.
+or we can use the c++ version that magic ate created
+
+
+
 # AI Block Rotation Detector
 
 Reverse perspective using a block with 4 points.
